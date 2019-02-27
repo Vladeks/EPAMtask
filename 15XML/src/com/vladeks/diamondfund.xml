@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gems name="MyFund"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="diamondfund.xsd">
+    <gem>
+        <name>MyGem</name>
+        <preciousness>semiprecious</preciousness>
+        <origin>Zimbabwe</origin>
+        <visualParameters>
+            <color>colorless</color>
+            <transparency>79</transparency>
+            <diamondCut>15</diamondCut>
+        </visualParameters>
+        <value>1K</value>
+    </gem>
+    <gem>
+        <name>MyGem2</name>
+        <preciousness>precious</preciousness>
+        <origin>Zimbabwe</origin>
+        <visualParameters>
+            <color>white</color>
+            <transparency>80</transparency>
+            <diamondCut>14</diamondCut>
+        </visualParameters>
+        <value>24K</value>
+    </gem>
+</gems>
