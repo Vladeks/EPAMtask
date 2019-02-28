@@ -43,9 +43,16 @@
         </xs:restriction>
     </xs:simpleType>
 
+    <!--<xs:simpleType name="karat">-->
+        <!--<xs:restriction base="xs:string">-->
+            <!--<xs:pattern value="[1-9][0-9]?K"/>-->
+        <!--</xs:restriction>-->
+    <!--</xs:simpleType>-->
+
     <xs:simpleType name="karat">
-        <xs:restriction base="xs:string">
-            <xs:pattern value="[1-9][0-9]?K"/>
+        <xs:restriction base="xs:integer">
+            <xs:minInclusive value="1"/>
+            <xs:maxInclusive value="24"/>
         </xs:restriction>
     </xs:simpleType>
 

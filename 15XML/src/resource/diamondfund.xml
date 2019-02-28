@@ -11,7 +11,7 @@
             <transparency>79</transparency>
             <diamondCut>15</diamondCut>
         </visualParameters>
-        <value>1K</value>
+        <value>1</value>
     </gem>
     <gem>
         <name>MyGem2</name>
@@ -22,6 +22,6 @@
             <transparency>80</transparency>
             <diamondCut>14</diamondCut>
         </visualParameters>
-        <value>24K</value>
+        <value>24</value>
     </gem>
 </gems>
