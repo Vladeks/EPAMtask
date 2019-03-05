@@ -1,0 +1,25 @@
+[
+  {
+    "name": "MyGem",
+    "preciousness": "semiprecious",
+    "origin": "Zimbabwe",
+    "visualParameters": {
+      "color": "red",
+      "transparency": 80,
+      "diamondCut": 15
+    },
+    "value": 1
+  },
+
+  {
+    "name": "MyGem2",
+    "preciousness": "semiprecious",
+    "origin": "Zimbabwe",
+    "visualParameters": {
+      "color": "red",
+      "transparency": 80,
+      "diamondCut": 15
+    },
+    "value": 1
+  }
+]
